@@ -1,0 +1,588 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 56;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		50800B802986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50800B7F2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateApp.swift */; };
+		50800B822986CD4600952F51 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50800B812986CD4600952F51 /* ContentView.swift */; };
+		50800B842986CD4600952F51 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50800B832986CD4600952F51 /* Assets.xcassets */; };
+		50800B872986CD4600952F51 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 50800B862986CD4600952F51 /* Preview Assets.xcassets */; };
+		50800B912986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50800B902986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateTests.swift */; };
+		50800B9B2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50800B9A2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateUITests.swift */; };
+		50800B9D2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 50800B9C2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateUITestsLaunchTests.swift */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXContainerItemProxy section */
+		50800B8D2986CD4600952F51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50800B742986CD4600952F51 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 50800B7B2986CD4600952F51;
+			remoteInfo = "BuckJaw Biometric Login Template";
+		};
+		50800B972986CD4600952F51 /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 50800B742986CD4600952F51 /* Project object */;
+			proxyType = 1;
+			remoteGlobalIDString = 50800B7B2986CD4600952F51;
+			remoteInfo = "BuckJaw Biometric Login Template";
+		};
+/* End PBXContainerItemProxy section */
+
+/* Begin PBXFileReference section */
+		50800B7C2986CD4600952F51 /* BuckJaw Biometric Login Template.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BuckJaw Biometric Login Template.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		50800B7F2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuckJaw_Biometric_Login_TemplateApp.swift; sourceTree = "<group>"; };
+		50800B812986CD4600952F51 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
+		50800B832986CD4600952F51 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		50800B862986CD4600952F51 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		50800B8C2986CD4600952F51 /* BuckJaw Biometric Login TemplateTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BuckJaw Biometric Login TemplateTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		50800B902986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuckJaw_Biometric_Login_TemplateTests.swift; sourceTree = "<group>"; };
+		50800B962986CD4600952F51 /* BuckJaw Biometric Login TemplateUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BuckJaw Biometric Login TemplateUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		50800B9A2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuckJaw_Biometric_Login_TemplateUITests.swift; sourceTree = "<group>"; };
+		50800B9C2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BuckJaw_Biometric_Login_TemplateUITestsLaunchTests.swift; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		50800B792986CD4600952F51 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		50800B892986CD4600952F51 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		50800B932986CD4600952F51 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		50800B732986CD4600952F51 = {
+			isa = PBXGroup;
+			children = (
+				50800B7E2986CD4600952F51 /* BuckJaw Biometric Login Template */,
+				50800B8F2986CD4600952F51 /* BuckJaw Biometric Login TemplateTests */,
+				50800B992986CD4600952F51 /* BuckJaw Biometric Login TemplateUITests */,
+				50800B7D2986CD4600952F51 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		50800B7D2986CD4600952F51 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				50800B7C2986CD4600952F51 /* BuckJaw Biometric Login Template.app */,
+				50800B8C2986CD4600952F51 /* BuckJaw Biometric Login TemplateTests.xctest */,
+				50800B962986CD4600952F51 /* BuckJaw Biometric Login TemplateUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		50800B7E2986CD4600952F51 /* BuckJaw Biometric Login Template */ = {
+			isa = PBXGroup;
+			children = (
+				50800B7F2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateApp.swift */,
+				50800B812986CD4600952F51 /* ContentView.swift */,
+				50800B832986CD4600952F51 /* Assets.xcassets */,
+				50800B852986CD4600952F51 /* Preview Content */,
+			);
+			path = "BuckJaw Biometric Login Template";
+			sourceTree = "<group>";
+		};
+		50800B852986CD4600952F51 /* Preview Content */ = {
+			isa = PBXGroup;
+			children = (
+				50800B862986CD4600952F51 /* Preview Assets.xcassets */,
+			);
+			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		50800B8F2986CD4600952F51 /* BuckJaw Biometric Login TemplateTests */ = {
+			isa = PBXGroup;
+			children = (
+				50800B902986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateTests.swift */,
+			);
+			path = "BuckJaw Biometric Login TemplateTests";
+			sourceTree = "<group>";
+		};
+		50800B992986CD4600952F51 /* BuckJaw Biometric Login TemplateUITests */ = {
+			isa = PBXGroup;
+			children = (
+				50800B9A2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateUITests.swift */,
+				50800B9C2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateUITestsLaunchTests.swift */,
+			);
+			path = "BuckJaw Biometric Login TemplateUITests";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		50800B7B2986CD4600952F51 /* BuckJaw Biometric Login Template */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 50800BA02986CD4600952F51 /* Build configuration list for PBXNativeTarget "BuckJaw Biometric Login Template" */;
+			buildPhases = (
+				50800B782986CD4600952F51 /* Sources */,
+				50800B792986CD4600952F51 /* Frameworks */,
+				50800B7A2986CD4600952F51 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = "BuckJaw Biometric Login Template";
+			productName = "BuckJaw Biometric Login Template";
+			productReference = 50800B7C2986CD4600952F51 /* BuckJaw Biometric Login Template.app */;
+			productType = "com.apple.product-type.application";
+		};
+		50800B8B2986CD4600952F51 /* BuckJaw Biometric Login TemplateTests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 50800BA32986CD4600952F51 /* Build configuration list for PBXNativeTarget "BuckJaw Biometric Login TemplateTests" */;
+			buildPhases = (
+				50800B882986CD4600952F51 /* Sources */,
+				50800B892986CD4600952F51 /* Frameworks */,
+				50800B8A2986CD4600952F51 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				50800B8E2986CD4600952F51 /* PBXTargetDependency */,
+			);
+			name = "BuckJaw Biometric Login TemplateTests";
+			productName = "BuckJaw Biometric Login TemplateTests";
+			productReference = 50800B8C2986CD4600952F51 /* BuckJaw Biometric Login TemplateTests.xctest */;
+			productType = "com.apple.product-type.bundle.unit-test";
+		};
+		50800B952986CD4600952F51 /* BuckJaw Biometric Login TemplateUITests */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 50800BA62986CD4600952F51 /* Build configuration list for PBXNativeTarget "BuckJaw Biometric Login TemplateUITests" */;
+			buildPhases = (
+				50800B922986CD4600952F51 /* Sources */,
+				50800B932986CD4600952F51 /* Frameworks */,
+				50800B942986CD4600952F51 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+				50800B982986CD4600952F51 /* PBXTargetDependency */,
+			);
+			name = "BuckJaw Biometric Login TemplateUITests";
+			productName = "BuckJaw Biometric Login TemplateUITests";
+			productReference = 50800B962986CD4600952F51 /* BuckJaw Biometric Login TemplateUITests.xctest */;
+			productType = "com.apple.product-type.bundle.ui-testing";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		50800B742986CD4600952F51 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				BuildIndependentTargetsInParallel = 1;
+				LastSwiftUpdateCheck = 1420;
+				LastUpgradeCheck = 1420;
+				TargetAttributes = {
+					50800B7B2986CD4600952F51 = {
+						CreatedOnToolsVersion = 14.2;
+					};
+					50800B8B2986CD4600952F51 = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 50800B7B2986CD4600952F51;
+					};
+					50800B952986CD4600952F51 = {
+						CreatedOnToolsVersion = 14.2;
+						TestTargetID = 50800B7B2986CD4600952F51;
+					};
+				};
+			};
+			buildConfigurationList = 50800B772986CD4600952F51 /* Build configuration list for PBXProject "BuckJaw Biometric Login Template" */;
+			compatibilityVersion = "Xcode 14.0";
+			developmentRegion = en;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 50800B732986CD4600952F51;
+			productRefGroup = 50800B7D2986CD4600952F51 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				50800B7B2986CD4600952F51 /* BuckJaw Biometric Login Template */,
+				50800B8B2986CD4600952F51 /* BuckJaw Biometric Login TemplateTests */,
+				50800B952986CD4600952F51 /* BuckJaw Biometric Login TemplateUITests */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		50800B7A2986CD4600952F51 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50800B872986CD4600952F51 /* Preview Assets.xcassets in Resources */,
+				50800B842986CD4600952F51 /* Assets.xcassets in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		50800B8A2986CD4600952F51 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		50800B942986CD4600952F51 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		50800B782986CD4600952F51 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50800B822986CD4600952F51 /* ContentView.swift in Sources */,
+				50800B802986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateApp.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		50800B882986CD4600952F51 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50800B912986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+		50800B922986CD4600952F51 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				50800B9B2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateUITests.swift in Sources */,
+				50800B9D2986CD4600952F51 /* BuckJaw_Biometric_Login_TemplateUITestsLaunchTests.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXTargetDependency section */
+		50800B8E2986CD4600952F51 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 50800B7B2986CD4600952F51 /* BuckJaw Biometric Login Template */;
+			targetProxy = 50800B8D2986CD4600952F51 /* PBXContainerItemProxy */;
+		};
+		50800B982986CD4600952F51 /* PBXTargetDependency */ = {
+			isa = PBXTargetDependency;
+			target = 50800B7B2986CD4600952F51 /* BuckJaw Biometric Login Template */;
+			targetProxy = 50800B972986CD4600952F51 /* PBXContainerItemProxy */;
+		};
+/* End PBXTargetDependency section */
+
+/* Begin XCBuildConfiguration section */
+		50800B9E2986CD4600952F51 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = INCLUDE_SOURCE;
+				MTL_FAST_MATH = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		50800B9F2986CD4600952F51 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_ANALYZER_NUMBER_OBJECT_CONVERSION = YES_AGGRESSIVE;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++20";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_ENABLE_OBJC_WEAK = YES;
+				CLANG_WARN_BLOCK_CAPTURE_AUTORELEASING = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_COMMA = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DEPRECATED_OBJC_IMPLEMENTATIONS = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_NON_LITERAL_NULL_CONVERSION = YES;
+				CLANG_WARN_OBJC_IMPLICIT_RETAIN_SELF = YES;
+				CLANG_WARN_OBJC_LITERAL_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_QUOTED_INCLUDE_IN_FRAMEWORK_HEADER = YES;
+				CLANG_WARN_RANGE_LOOP_ANALYSIS = YES;
+				CLANG_WARN_STRICT_PROTOTYPES = YES;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNGUARDED_AVAILABILITY = YES_AGGRESSIVE;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu11;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				MTL_FAST_MATH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_COMPILATION_MODE = wholemodule;
+				SWIFT_OPTIMIZATION_LEVEL = "-O";
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		50800BA12986CD4600952F51 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"BuckJaw Biometric Login Template/Preview Content\"";
+				DEVELOPMENT_TEAM = W59W3QVKXJ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mtndev.BuckJaw-Biometric-Login-Template";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Debug;
+		};
+		50800BA22986CD4600952F51 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_ASSET_PATHS = "\"BuckJaw Biometric Login Template/Preview Content\"";
+				DEVELOPMENT_TEAM = W59W3QVKXJ;
+				ENABLE_PREVIEWS = YES;
+				GENERATE_INFOPLIST_FILE = YES;
+				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
+				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
+				INFOPLIST_KEY_UILaunchScreen_Generation = YES;
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPhone = "UIInterfaceOrientationPortrait UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
+				LD_RUNPATH_SEARCH_PATHS = (
+					"$(inherited)",
+					"@executable_path/Frameworks",
+				);
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mtndev.BuckJaw-Biometric-Login-Template";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = YES;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+			};
+			name = Release;
+		};
+		50800BA42986CD4600952F51 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = W59W3QVKXJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mtndev.BuckJaw-Biometric-Login-TemplateTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BuckJaw Biometric Login Template.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BuckJaw Biometric Login Template";
+			};
+			name = Debug;
+		};
+		50800BA52986CD4600952F51 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				BUNDLE_LOADER = "$(TEST_HOST)";
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = W59W3QVKXJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 16.2;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mtndev.BuckJaw-Biometric-Login-TemplateTests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/BuckJaw Biometric Login Template.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/BuckJaw Biometric Login Template";
+			};
+			name = Release;
+		};
+		50800BA72986CD4600952F51 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = W59W3QVKXJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mtndev.BuckJaw-Biometric-Login-TemplateUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "BuckJaw Biometric Login Template";
+			};
+			name = Debug;
+		};
+		50800BA82986CD4600952F51 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_EMBED_SWIFT_STANDARD_LIBRARIES = YES;
+				CODE_SIGN_STYLE = Automatic;
+				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = W59W3QVKXJ;
+				GENERATE_INFOPLIST_FILE = YES;
+				MARKETING_VERSION = 1.0;
+				PRODUCT_BUNDLE_IDENTIFIER = "com.mtndev.BuckJaw-Biometric-Login-TemplateUITests";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SWIFT_EMIT_LOC_STRINGS = NO;
+				SWIFT_VERSION = 5.0;
+				TARGETED_DEVICE_FAMILY = "1,2";
+				TEST_TARGET_NAME = "BuckJaw Biometric Login Template";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		50800B772986CD4600952F51 /* Build configuration list for PBXProject "BuckJaw Biometric Login Template" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50800B9E2986CD4600952F51 /* Debug */,
+				50800B9F2986CD4600952F51 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		50800BA02986CD4600952F51 /* Build configuration list for PBXNativeTarget "BuckJaw Biometric Login Template" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50800BA12986CD4600952F51 /* Debug */,
+				50800BA22986CD4600952F51 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		50800BA32986CD4600952F51 /* Build configuration list for PBXNativeTarget "BuckJaw Biometric Login TemplateTests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50800BA42986CD4600952F51 /* Debug */,
+				50800BA52986CD4600952F51 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		50800BA62986CD4600952F51 /* Build configuration list for PBXNativeTarget "BuckJaw Biometric Login TemplateUITests" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				50800BA72986CD4600952F51 /* Debug */,
+				50800BA82986CD4600952F51 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 50800B742986CD4600952F51 /* Project object */;
+}
